@@ -5,7 +5,9 @@ Api Explorer.
 
 A project meant to be used as easy frontend to place in front of an api.
 
-Sometimes you don't need an advanced front-end application with thousand of features but you do need to have something more then a command line access. This is for example convenient as admin interface over your data, or as quick solution while building your backend.
+Sometimes you don't need an advanced front-end application with thousands of features but you do need to have something more then just curl. 
+
+This is for example convenient as admin interface over your data or as quick solution while building your backend.
 
 
 ### Feature goals
