@@ -1,6 +1,21 @@
-# vue-cli-3
+# ApEx
 
-## Project setup
+Api Explorer.
+
+
+A project meant to be used as easy frontend to place in front of an api.
+
+Sometimes you don't need an advanced front-end application with thousand of features but you do need to have something more then a command line access. This is for example convenient as admin interface over your data, or as quick solution while building your backend.
+
+
+### Feature goals
+- Showing of 1 object info
+- Recognizing correct formatting of special information (ex. url's)
+- Adding crud functionality on top of the viewer
+
+## Installation, development, testing and deployment instructions
+
+### Project setup
 ```
 yarn install
 ```
@@ -37,3 +52,6 @@ yarn run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+Build and maintained by Maxime Bloch - alazeo@live.be
