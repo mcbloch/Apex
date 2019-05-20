@@ -1,5 +1,10 @@
 # ApEx
 
+WORK IN PROGRES
+
+This is currently only for local developmen. 
+
+
 Api Explorer.
 
 
