@@ -1,8 +1,8 @@
 # ApEx
 
-WORK IN PROGRES
+WORK IN PROGRESS
 
-This is currently only for local developmen. 
+This is currently only for local developmentt.
 
 
 Api Explorer.
