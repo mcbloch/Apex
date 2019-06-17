@@ -17,7 +17,7 @@ This is for example convenient as admin interface over your data or as quick sol
 
 ### Feature goals
 - Showing of 1 object info
-- Recognizing correct formatting of special information (ex. url's)
+- Recognizing correct formatting of special information (ex. url's, emails) and add relevant links (mailto: url: tel:, ...)
 - Adding crud functionality on top of the viewer
 
 ## Installation, development, testing and deployment instructions
